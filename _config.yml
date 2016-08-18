@@ -1,4 +1,3 @@
-layout_spectrum: 0.14994773687794805
 typography_spectrum: 0.4571933075785637
 color:
   brandStrength: 0.06585256196558475
@@ -6,9 +5,11 @@ color:
   saturation: 0.7020560745149851
   rhythmicContrast: 0.8796136090531945
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-name: Concord 71 - Project Stradina
+    - '#FEFEFE'
+    - '#ADBBCD'
+    - '#454D58'
+    - '#767772'
+    - '#3AA343'
+layout_spectrum: 0.14994773687794805
+name: Project Stradina
+title: 'Little Street by Concord 71 '
