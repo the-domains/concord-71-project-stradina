@@ -11,6 +11,11 @@ color:
     - '#767772'
     - '#3AA343'
 layout_spectrum: 0.14994773687794805
+author:
+  name: Raymond Tai
+  email: raymond.tai@live.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d088f83-03d4-4b10-b83c-50916f67f1c7.jpg
 name: Project Stradina
 navigation:
   - name: Stradina Gardens
