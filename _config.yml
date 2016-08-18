@@ -19,5 +19,8 @@ navigation:
   - name: Gardens1
     id: d7b1ceff-9189-4fad-b517-7c4da3e285da
     type: content
+  - name: Gardens2
+    id: 569a7360-3ea4-481a-9153-86354722dee8
+    type: content
 title: 'Stradina by Concord 71 '
 description: a little street in the inner west
