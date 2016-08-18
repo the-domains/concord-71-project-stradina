@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-18T02:25:40.666Z'
+datePublished: '2016-08-18T03:38:20.665Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
-isBasedOnUrl: 'http://www.wired.com/2016/04/wild-shape-shifting-sofa-can-whatever-want/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - lift-bit
   - ratti
@@ -22,7 +21,7 @@ author:
   - name: Margaret Rhodes
     url: 'http://www.wired.com/author/margaret-rhodes/'
     avatar: {}
-dateModified: '2016-08-18T02:25:39.423Z'
+dateModified: '2016-08-18T03:38:19.816Z'
 title: Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be
 app_links: []
 publisher:
@@ -40,6 +39,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
